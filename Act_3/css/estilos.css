@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.banner{
+    height: 100%;
+    position: relative;
+    background-image: url("/Imagenes/Banner.png");
+}
+
+
+.carrusel{
+    margin: 1%;
+}
+
+.content{
+    overflow: hidden;
+}
+
+div .search{
+    padding: 5% 0% 5% 5%;
+}
+
+.search-2{
+    background-color:rgba(255, 255, 255, 0.7) !important;
+}
+.btn-buscar{
+    position: relative;
+}
+
+.link-aside{
+    text-decoration: none;
+    color: #fff;
+}
+
+.link-aside:hover{
+    color: #fff;
+}
+
+
+
+.nav-link-2 {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  }
+.nav-item:hover{
+background-color: rgb(45, 45, 48);
+}
+
+aside{
+    overflow: hidden;
+    height: 200px;
+}
+
+.div-aside{
+    height: 100%;
+}
+.p-aside{
+    text-align: center;
+    align-items: center;
+}
+
+.p-aside{
+    transition: background-color .5s;
+}
+.p-aside:hover{
+    background-color: rgb(88, 88, 88);
+}
+
+.titulo{
+   background-color: rgb(255, 255, 255);
+}
+
+.imagen-article{
+    width: 200px;
+}
+
+
+.gris{
+    background-color: rgb(71, 71, 71);
+}
+    .gris-font{
+        color: rgb(71, 71, 71);
+    }
+
+.blanco{
+    background-color: #fff;
+}
+    .blanco-font{
+        color: #fff;
+    }
+.azul{
+    background-color: rgb(0, 67, 105);
+}
+    .azul-font{
+        color: rgb(0, 67, 105);
+    }
+
+.presentacion{
+    overflow: unset;
+}
+
+.footer{
+    text-align: center;
+}
