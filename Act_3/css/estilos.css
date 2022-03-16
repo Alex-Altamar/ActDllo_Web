@@ -18,6 +18,12 @@
     overflow: hidden;
 }
 
+.content .social-media a:hover{
+    color: rgb(255, 230, 230);
+    background-color: #c9bcbc;
+
+}
+
 div .search{
     padding: 5% 0% 5% 5%;
 }
